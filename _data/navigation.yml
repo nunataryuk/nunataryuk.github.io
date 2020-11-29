@@ -1,0 +1,21 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+  include: 'N'
+
+- title: Home
+  url: /
+  include: 'N'
+
+- title: Installation & setup
+  url: /basindelineatesetup/
+  include: 'N'
+
+- title: Basin delineation
+  url: /basindelineate/
+  include: 'N'
+
+- title: Search
+  url: /search/
+  include: 'N'
